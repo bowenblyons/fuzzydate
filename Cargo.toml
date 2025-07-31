@@ -1,0 +1,10 @@
+[package]
+name = "fuzzydate"
+version = "0.1.0"
+edition = "2025"
+authors = ["Bowen Lyons bowenblyons@gmail.com"]
+description = "Displays current date/time in a fuzzy format"
+repository = ""
+license = "MIT"
+[dependencies]
+chrono = "0.4.41"
